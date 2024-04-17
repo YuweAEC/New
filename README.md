@@ -10,3 +10,6 @@ This project contains a simple React frontend and Node.js backend application.
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to start the development server.
 
+### Usage
+- The frontend application will run on `http://localhost:3000` by default.
+  
