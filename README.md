@@ -25,3 +25,9 @@ This project contains a simple React frontend and Node.js backend application.
 
 ## API Endpoints
 - `GET /api/products`: Get a list of products.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request if you'd like to improve the project.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
